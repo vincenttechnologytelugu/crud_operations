@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284786311263",
+    "project_id": "fluttercrud-fc584",
+    "storage_bucket": "fluttercrud-fc584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284786311263:android:dc189101c67d274d1e1bea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWcWNBoev-6Xs5gIvy9f13Oeq1WFxpI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
